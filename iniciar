@@ -1,0 +1,11 @@
+from .operacoes import soma, subtrai
+from setuptools import setup, find_packages
+
+setup(
+    name='calculadora',
+    version='0.1.0',
+    description='Um pacote simples de operações matemáticas',
+    author='Seu Nome',
+    packages=find_packages(),
+    python_requires='>=3.6',
+)
