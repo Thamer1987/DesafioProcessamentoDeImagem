@@ -1,0 +1,7 @@
+calculadora/
+│
+├── setup.py
+├── README.md
+└── calculadora/
+     ├── __init__.py
+     └── operacoes.py
